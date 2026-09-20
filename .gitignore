@@ -1,3 +1,4 @@
 # 工作区辅助文件不入库
 .workbuddy/
 *.txt
+*.log
